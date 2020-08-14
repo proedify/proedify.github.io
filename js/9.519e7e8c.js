@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[9],{"24de":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("Practice Test component for exam section "+e._s(e.$route.params.examSection))])},o=[],a={},r=a,s=t("2877"),i=Object(s["a"])(r,c,o,!1,null,null,null);n["default"]=i.exports}}]);
